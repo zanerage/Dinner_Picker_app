@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dinner_Picker</string>
+    <string name="foodtype">Chinese</string>
+</resources>
